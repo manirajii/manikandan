@@ -1,0 +1,26 @@
+
+ 
+   .para1{
+    color: orange;
+   }
+   #para2{
+      color: yellow;
+   }
+   .para3{
+      color: orange;
+   }
+   #container{
+      width: 400px;
+      height: 400px;
+      background-color: black;
+   }
+   #logo1{
+      background-color: black; color: red;
+      
+   }
+   #logo1{
+      background-color: black;
+      color: red;
+   }
+
+

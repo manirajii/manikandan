@@ -1,0 +1,17 @@
+#url{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+@media( max-width:375px){
+    #url{
+        list-style-type: none;
+        display: flex;
+        justify-content: space-around;
+        background-color: yellow;
+        color: white;
+    }
+
+}

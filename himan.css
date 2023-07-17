@@ -1,0 +1,331 @@
+
+#call1{
+    margin-left: 500px;
+    margin-top: -60px;
+}
+#call2{
+    margin-left: 650px;
+    margin-top: -60px;
+    
+}
+#call3{
+    border: 1px solid black;
+    width: 120px;
+    margin-left: 900px;
+    margin-top: -60px;
+    background-color:white ;
+    color: blue;
+}
+#call4{
+    border: 1px solid black;
+    width: 100px;
+    margin-left:1030px ;
+    margin-top: -60px;
+    background-color:white ;
+    color: blue;
+}
+#stays{
+    border: 1px solid white;
+    width: 70px;
+    text-align: center;
+    border-radius: 15px;
+text-transform: uppercase;
+padding: 20px;
+
+}
+#flight{
+    margin-left:100px ;
+    margin-top: -35px;
+}
+#hotel{
+    margin-left:200px ;
+    margin-top: -35px;
+}
+#car{
+    margin-left:300px ;
+    margin-top: -35px;
+}
+#attr{
+    margin-left:400px ;
+    margin-top: -35px;
+}
+#air{
+    margin-left:500px ;
+    margin-top: -35px;
+}
+#booking{
+    z-index: 10;
+    border: 1px solid black;
+    background-color:darkblue;
+    color: white;
+    height: 200px;
+    position: fixed;
+    width: 100%;
+}
+#holy{
+    margin-left: 200px;
+    font-size: 25px;
+}
+#holy2{
+    border: 1px solid black;
+    width: max-content;
+    background-color: blue;
+    color: white;
+
+}
+#center{
+    border: 1px solid black;
+    background-image: url(/nature.jpg);
+    color: white;
+    height: 400px;
+}
+#bil1{
+    border: 1px solid black;
+ }
+ #place1{
+    border: 4px solid rgb(255, 230, 0);
+     width: 300px;
+     background-color: white;
+     padding: 10px;
+    
+} 
+#place2{
+    border: 4px solid rgb(255, 230, 0);
+    text-align: center;
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+ } 
+ #place3{
+    border: 4px solid rgb(255, 230, 0); 
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+}
+#place4{    
+    border: 4px solid rgb(255, 230, 0);
+    background-color: blue;
+    color: white; 
+    width: 300px;
+    padding: 10px;   
+}
+#content{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top:-50px;
+    width: 700px;
+   height: 100px;
+   text-align: center;
+   
+}
+
+.take1{
+    border: 1px solid black;
+    width: 600px;
+    border-radius: 12px;
+    font-size: 10px;   
+}
+.pic1{
+    margin-left: 450px;
+    margin-top:-120px;
+    
+}
+#find{
+    border: 1px solid black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    margin-top: -50px;
+    margin-left:20px;
+}
+#flight{
+    margin-left: 450px;
+    margin-top: -110px;
+    
+    
+    
+}
+#fly{
+    border: 1px solid black;
+    width: 650px;
+    border-radius: 12px;
+}
+#flypic{
+    margin-left: 650px;
+    margin-top:-190px;
+}
+.search{
+    border: 1px solid black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    margin-top: -50px;
+    margin-left: 20px;
+
+}
+#great{
+    border: 1px solid black;
+    background-image: url(/204490944.jpeg);
+    height: 200px;
+    color: white;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+}
+.deal{
+    border: 1px solid black;
+    width: max-content;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: blue;
+    color: white;
+    margin-top: -50px;
+    margin-left: 20px;  
+}
+#quick{
+    margin-left: -650px;
+font-size: 30px;
+ }
+ 
+.mani{
+    display: flex;
+    justify-content: space-between;
+margin-left:-600px ;
+}
+#allpic{
+    display: flex;
+    justify-content: space-between;
+margin-left:-600px ;
+}
+#trending{
+    display: flex;
+    justify-content: space-between;
+margin-left:-10px ;
+
+}
+#para1{
+    width: 200px;
+}
+#detail{
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+}
+#violance{
+    display: flex;
+    justify-content: space-between;
+    margin-left:200px;
+    margin-left: 90px;
+    width: 400px;
+}
+#ceterfresh{
+    margin-top: 00px;
+}
+#para2{
+    width: 200px;
+    height: 200px;
+}
+#verty{
+    display: flex;
+    justify-content: space-between;
+    margin-left:100px;
+    width: 900px;
+    
+}
+#circle1{
+
+    border-radius:6px ;
+    height: 300px;
+    border-style: inset;
+    border-style: outset;
+}
+#circle{
+    border: 1px solid blue;
+    width: 500px;
+    margin-left: 200px;
+    margin-top:-4px;
+    text-align: center;
+    border-radius: 150px;
+    height: 300px;
+    background-color: blue;
+    color: aliceblue;
+    height: 300px;
+}
+#cover{
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin-left: 150px;
+    background-color: white;
+    color: blue;
+}
+#img{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+#instant{
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    
+    
+}
+ #letter{
+    margin-left: 300px;   
+ }   
+ #demo{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    color: blue;margin-left: 200px;
+    margin-top: -50px;
+    
+ }
+ #demo1{
+    border: 1px solid blueviolet;
+    padding: 5px;
+    width: 100px;
+    
+ }
+ #world{
+    margin-top:- 130px;
+ }
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
